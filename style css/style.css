@@ -83,8 +83,11 @@ footer{
    background-color: #676a6d;
    display: flex;
    justify-content: center;
+   position: fixed;
+   bottom: 0;
+   left: 0;
+
    
-    
 
 }
 
